@@ -1,0 +1,278 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div>
+  <span />
+  <div
+    className="main-comp"
+    id="content"
+  >
+    <div
+      className="container"
+    >
+      <h2>
+        Screening
+         
+      </h2>
+      <div
+        className="row"
+      >
+        <div
+          auto={true}
+          className="col-1 col"
+          data-rbd-droppable-context-id="4"
+          data-rbd-droppable-id="0b6e0eb6-29a6-4c1c-817f-0e903fca75fd"
+          style={
+            Object {
+              "background": "lightgrey",
+            }
+          }
+        >
+          <div
+            aria-describedby="rbd-hidden-text-4-hidden-text-44"
+            auto={true}
+            className="col-2 col"
+            data-rbd-drag-handle-context-id="4"
+            data-rbd-drag-handle-draggable-id="429f6041-fc1c-4190-a1af-7877d5d7b4d3"
+            data-rbd-draggable-context-id="4"
+            data-rbd-draggable-id="429f6041-fc1c-4190-a1af-7877d5d7b4d3"
+            draggable={false}
+            onDragStart={[Function]}
+            onTransitionEnd={null}
+            role="button"
+            style={
+              Object {
+                "background": "rgb(88, 88, 175)",
+                "transform": null,
+                "transition": null,
+              }
+            }
+            tabIndex={0}
+          >
+            Name: 
+            Harish
+            <br />
+            Reg-No: 
+            154796
+            <br />
+            Dept: 
+            CSC
+          </div>
+          <div
+            aria-describedby="rbd-hidden-text-4-hidden-text-44"
+            auto={true}
+            className="col-2 col"
+            data-rbd-drag-handle-context-id="4"
+            data-rbd-drag-handle-draggable-id="8e1bf1f9-571d-4634-8a02-a9823d19f723"
+            data-rbd-draggable-context-id="4"
+            data-rbd-draggable-id="8e1bf1f9-571d-4634-8a02-a9823d19f723"
+            draggable={false}
+            onDragStart={[Function]}
+            onTransitionEnd={null}
+            role="button"
+            style={
+              Object {
+                "background": "rgb(88, 88, 175)",
+                "transform": null,
+                "transition": null,
+              }
+            }
+            tabIndex={0}
+          >
+            Name: 
+            Pranesh
+            <br />
+            Reg-No: 
+            458136
+            <br />
+            Dept: 
+            IT
+          </div>
+          <div
+            aria-describedby="rbd-hidden-text-4-hidden-text-44"
+            auto={true}
+            className="col-2 col"
+            data-rbd-drag-handle-context-id="4"
+            data-rbd-drag-handle-draggable-id="33857c74-0e89-48b5-8206-d9972df53e68"
+            data-rbd-draggable-context-id="4"
+            data-rbd-draggable-id="33857c74-0e89-48b5-8206-d9972df53e68"
+            draggable={false}
+            onDragStart={[Function]}
+            onTransitionEnd={null}
+            role="button"
+            style={
+              Object {
+                "background": "rgb(88, 88, 175)",
+                "transform": null,
+                "transition": null,
+              }
+            }
+            tabIndex={0}
+          >
+            Name: 
+            Ajay
+            <br />
+            Reg-No: 
+            124769
+            <br />
+            Dept: 
+            IT
+          </div>
+          <div
+            aria-describedby="rbd-hidden-text-4-hidden-text-44"
+            auto={true}
+            className="col-2 col"
+            data-rbd-drag-handle-context-id="4"
+            data-rbd-drag-handle-draggable-id="7dde82e4-d3d5-4b3b-b0ff-0be0a836ee97"
+            data-rbd-draggable-context-id="4"
+            data-rbd-draggable-id="7dde82e4-d3d5-4b3b-b0ff-0be0a836ee97"
+            draggable={false}
+            onDragStart={[Function]}
+            onTransitionEnd={null}
+            role="button"
+            style={
+              Object {
+                "background": "rgb(88, 88, 175)",
+                "transform": null,
+                "transition": null,
+              }
+            }
+            tabIndex={0}
+          >
+            Name: 
+            Karthick
+            <br />
+            Reg-No: 
+            238756
+            <br />
+            Dept: 
+            ECE
+          </div>
+          <div
+            aria-describedby="rbd-hidden-text-4-hidden-text-44"
+            auto={true}
+            className="col-2 col"
+            data-rbd-drag-handle-context-id="4"
+            data-rbd-drag-handle-draggable-id="2d26cb27-82d5-423b-a84e-e57dc5f675fb"
+            data-rbd-draggable-context-id="4"
+            data-rbd-draggable-id="2d26cb27-82d5-423b-a84e-e57dc5f675fb"
+            draggable={false}
+            onDragStart={[Function]}
+            onTransitionEnd={null}
+            role="button"
+            style={
+              Object {
+                "background": "rgb(88, 88, 175)",
+                "transform": null,
+                "transition": null,
+              }
+            }
+            tabIndex={0}
+          >
+            Name: 
+            Vijay
+            <br />
+            Reg-No: 
+            125796
+            <br />
+            Dept: 
+            EEE
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="container"
+    >
+      <h2>
+        Written Test
+         
+      </h2>
+      <div
+        className="row"
+      >
+        <div
+          auto={true}
+          className="col-1 col"
+          data-rbd-droppable-context-id="4"
+          data-rbd-droppable-id="7dbbec61-c2bd-4bd2-82cb-63f85b0cbc76"
+          style={
+            Object {
+              "background": "lightgrey",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      className="container"
+    >
+      <h2>
+         HR
+         
+      </h2>
+      <div
+        className="row"
+      >
+        <div
+          auto={true}
+          className="col-1 col"
+          data-rbd-droppable-context-id="4"
+          data-rbd-droppable-id="b9b0ae76-f491-4b51-9aa6-76c12dbe0ba8"
+          style={
+            Object {
+              "background": "lightgrey",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      className="container"
+    >
+      <h2>
+        Selected
+         
+      </h2>
+      <div
+        className="row"
+      >
+        <div
+          auto={true}
+          className="col-1 col"
+          data-rbd-droppable-context-id="4"
+          data-rbd-droppable-id="72d47902-676d-40a5-9193-b5c885279424"
+          style={
+            Object {
+              "background": "lightgrey",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      className="container"
+    >
+      <h2>
+        Offer Letter 
+         
+      </h2>
+      <div
+        className="row"
+      >
+        <div
+          auto={true}
+          className="col-1 col"
+          data-rbd-droppable-context-id="4"
+          data-rbd-droppable-id="21356831-c3b7-49fa-88df-2bab5bd63392"
+          style={
+            Object {
+              "background": "lightgrey",
+            }
+          }
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;

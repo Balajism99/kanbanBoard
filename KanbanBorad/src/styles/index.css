@@ -1,0 +1,116 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.main-comp{
+  display: flex;
+  justify-content: center;
+    height: 100%;
+    padding-bottom: 20px;  
+    margin-top: 150px;
+    max-width: 1500px;
+}
+.col-name{
+  text-align: center;
+}
+.main-col{
+  display: flex;
+  flex-direction: column;
+  align-items: center;    
+}
+.col{
+  margin: 8px;
+}
+.col-1{
+  padding: 4px;
+  width: 250px;
+  min-height: 520px;
+}
+.col-md-6{
+  padding: 4px;
+  width: 250px;
+  min-height: 520px;
+}
+.col-2{
+  user-select: none;
+  padding: 16px;
+  margin: 0 0 8px 0;
+  margin-top: 5px;
+  min-height: 50px;
+  color: white ;
+  cursor: pointer;
+}
+.head{
+  text-align: center;
+}
+.error{
+  margin: 10px;
+  color:blue;
+  text-align: center;
+}
+.message{
+  font-size: 14pt;
+  color:white
+}
+
+.preview-btn{
+  padding: 7px;
+  border-radius: 2px;
+  background-color: rgb(77, 179, 226);
+  color: white ;
+  border: none;
+  margin-left: 25px;
+  width: 8%;
+  height: 14%;
+}
+.btn-primary{
+  padding: 7px;
+  border-radius: 4px;
+  background-color: rgb(77, 179, 226);
+  color: white ;
+  border: none;
+  font-size: 12pt;
+  margin-left: 1175px;
+  cursor: pointer;
+  width: 8%;
+ height: 50px;
+ margin-bottom: 15px;
+}
+.btn-secondary{
+  padding: 7px;
+  border-radius: 4px;
+  background-color: rgb(77, 179, 226);
+  color: white ;
+  border: none;
+  float: right;
+  font-size: 12pt;
+  cursor: pointer;
+  margin-left: 1175px;
+  width: 8%;
+ height: 50px;
+}
+.popup{
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: rgba(0,0,0,0.2);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.popup-inner{
+position: relative;
+padding: 35px;
+width: 100%;
+background-color: #FFF;
+}
